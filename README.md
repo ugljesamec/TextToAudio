@@ -71,7 +71,7 @@
 
 ## 📷 Screenshot
 
-![TTSApp UI](ttsapp.png)
+![TTSApp UI](ss.png)
 
 ---
 
